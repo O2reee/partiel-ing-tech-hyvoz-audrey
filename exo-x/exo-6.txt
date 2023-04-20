@@ -1,0 +1,1 @@
+Le backend est la partie du code qu'on ne voit pas elle traite les données et gére les fonctionnalités qui ne sont pas visibles pour les utilisateurs finaux, elle comprend les serveurs, les bases de données et les applications qui font fonctionner le code
